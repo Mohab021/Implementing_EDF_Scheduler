@@ -5,6 +5,9 @@ Earliest Deadline First (EDF) is a shecduling algorithm that adopts a dynamic pr
 The purpose of this system is to design an EDF scheduler based on FreeRTOS.
 The system runs on NXP LCP2129 microcontroller.
 
+## Project Specification
+@[Project Rubric](https://review.udacity.com/#!/rubrics/4879/view)
+
 ## Getting Started
 ### Executing program
 Run the program simulated using Keil uVision5
